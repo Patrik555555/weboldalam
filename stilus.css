@@ -1,3 +1,7 @@
 .box_shadow {
  border: 1px solid chocolate;
+ border-right: 1px;
+ border-left: 1px;
+ border-bottom: 1px;
+ border-top: 1px;
 }
